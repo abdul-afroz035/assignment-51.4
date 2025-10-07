@@ -1,0 +1,88 @@
+* {
+margin: 0px;
+padding: 0px;
+}
+
+.font-60 {
+    font-size: 60px;
+}
+
+.font-20 {
+    font-size: 20px;
+}
+
+.font-15 {
+    font-size: 15px;
+}
+
+.blue {
+    color: rgb(59, 59, 236);
+}
+
+.white {
+    color: white;
+}
+
+.gray {
+    color: gray;
+}
+
+.bg-blue {
+   background: rgb(69, 69, 236);
+}
+
+.bg-white {
+    background: white;
+}
+
+.shad {
+    box-shadow: 3px 2px 10px rgb(195, 193, 193);
+}
+
+button {
+   border: none;
+   border-radius: 5px; 
+   padding: 15px 30px;
+   margin-right:10px;
+}
+
+.font-tahoma {
+    font-family: tahoma;
+}
+
+.font-luc {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.dis-flex {
+    display: flex;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.jc-center {
+    justify-content: center;
+}
+
+.pad-30 {
+    padding: 30px;
+}
+
+.gap-30 {
+    gap: 30px;
+}
+
+.pad-5 {
+    padding: 5px;
+}
+
+.max-h {
+    max-height: 100vh;
+}
+
+.bor-box {
+    box-sizing: border-box;
+}
+
